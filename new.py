@@ -1,4 +1,4 @@
-print("This is a test for git")
+print("this is now a test for conflict from master")
 
 
-print("This is a test for git2")
+print("This is a test for gitgit2")
